@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "description": "Script para controlar un bot de Minecraft",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jin",
+  "license": "GNU",
+  "dependencies": {
+    "mineflayer": "^4.12.0"
+  }
+}
