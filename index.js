@@ -8,7 +8,7 @@ const bot = mineflayer.createBot({
 })
 
 bot.on('spawn', () => {
-  bot.chat('/register aagop04')  
+  bot.chat('you can ask me question buy typing /msg furnace question: i'll be there for u')  
 });
 
 //NO TOCAR/// DO NOT TOUCH
